@@ -1,1 +1,2 @@
-# Contains major assignments from my Data Structures course
+# Java
+Contains major assignments from my Data Structures course
