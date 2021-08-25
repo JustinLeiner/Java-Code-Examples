@@ -1,2 +1,2 @@
 # Java
-Contains major assignments from my Data Structures course
+Contains advanced coursework completed in my Data Structures course
